@@ -1,1 +1,0 @@
-# aurora-homebrew
