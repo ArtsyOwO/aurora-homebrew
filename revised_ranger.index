@@ -1,5 +1,10 @@
-[metadata]
-name=Revised Ranger - Tasha's Optional Features
-author=ChatGPT
-version=1.0
-url=https://raw.githubusercontent.com/ArtsyOwO/aurora-homebrew/main/ranger_revised.txt
+<index>
+  <metadata>
+    <name>Revised Ranger - Tasha's Optional Features</name>
+    <author>ChatGPT</author>
+    <version>1.0</version>
+  </metadata>
+  <files>
+    <item url="https://raw.githubusercontent.com/ArtsyOwO/aurora-homebrew/main/ranger_revised.txt" />
+  </files>
+</index>
