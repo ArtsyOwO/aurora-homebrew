@@ -1,3 +1,10 @@
+[info]
+name=Revised Ranger Optional Features
+type=classmod
+id=ranger_revised_tashas
+source=Tasha's Cauldron of Everything
+description=Optional class features for the Ranger from Tasha's Cauldron of Everything.
+
 classmod=Ranger; Tasha's Optional Features
 # Revised Ranger optional features from Tasha’s Cauldron of Everything
 # Author: ChatGPT - 2025
