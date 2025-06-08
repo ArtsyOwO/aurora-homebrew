@@ -1,8 +1,0 @@
-# Aurora Builder Index File for Remote Homebrew
-# Includes: Revised Ranger Optional Features from Tasha's Cauldron of Everything
-
-[metadata]
-name=Revised Ranger - Tasha's Optional Features
-author=ChatGPT
-version=1.0
-https://raw.githubusercontent.com/ArtsyOwO/aurora-homebrew/refs/heads/main/ranger_revised.txt
